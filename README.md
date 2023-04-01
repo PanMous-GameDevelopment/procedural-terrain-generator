@@ -3,3 +3,5 @@ Procedural terrain generator tool using C# and Perlin noise algorithm. Automatic
 
 1. Open with Unity.
 2. In the "Scenes" folder open the "TerrainGenerator" scene.
+
+![Screenshot_35](https://user-images.githubusercontent.com/129271569/229299604-c60f677c-4070-479d-b0db-38656344e650.png)
